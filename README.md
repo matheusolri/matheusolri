@@ -1,7 +1,8 @@
-
+<div align="center">
+  
 # 👋 Olá sou o Matheus de Oliveira 👋
-
-## **statistic GitHub**
+  
+</div>
 
 <div align="center">
 <a href="https://github.com/matheusolri">
